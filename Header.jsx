@@ -7,7 +7,8 @@ import out from "../../assets/logout.svg"
 import { useNavigate } from "react-router-dom"
 import logo from "../../assets/logo.svg"
 import cart from "../../assets/cart.svg"
-import { UserContext } from "../../context/user"
+import { UserContext } from "../../context/user" 
+
 
 
 const photo = "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
